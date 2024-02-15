@@ -1,6 +1,6 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQGUqRSVUWdC1g/profile-displaybackgroundimage-shrink_350_1400/0/1699299169760?e=1707955200&v=beta&t=0OeOd9mdib6OuY8UnPnJ96gZquN9H3xkz_MV0jFSFT4" alt="imag-capa">
 
-### Hi there 👋
+
+### Olá👋
 Eu sou o Tiago Oliveira, Programador Front End, atualmente criando projetos com:
 
 <br>
