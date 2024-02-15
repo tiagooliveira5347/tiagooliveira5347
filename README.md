@@ -10,6 +10,7 @@ Eu sou o Tiago Oliveira, Programador Front End, atualmente criando projetos com:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript-logo">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
 </div>
+ Apaixonado por tecnologia e sempre procurando aprender mais.
 Rede Social
 <br>
 <a href="https://www.linkedin.com/in/tiago-oliveira-488205168/">LINKEDIN </a>
